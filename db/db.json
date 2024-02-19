@@ -127,6 +127,18 @@
         "Pepino"
       ],
       "status": "Solicitado"
+    },
+    {
+      "id": "302e",
+      "nome": "Joana",
+      "carne": "Alcatra",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon",
+        "Salame",
+        "Cebola roxa"
+      ],
+      "status": "Solicitado"
     }
   ]
 }
