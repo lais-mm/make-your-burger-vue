@@ -79,19 +79,7 @@
   ],
   "burgers": [
     {
-      "id": "6681",
-      "nome": "Roger",
-      "carne": "Maminha",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon",
-        "Salame",
-        "Cebola roxa"
-      ],
-      "status": "Solicitado"
-    },
-    {
-      "id": "76ea",
+      "id": "1",
       "nome": "Zeca",
       "carne": "Picanha",
       "pao": "3 Queijos",
@@ -100,36 +88,10 @@
         "Tomate",
         "Pepino"
       ],
-      "status": "Solicitado"
+      "status": "Em produção"
     },
     {
-      "id": "779a",
-      "nome": "joquina",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon",
-        "Cheddar"
-      ],
-      "status": "Solicitado"
-    },
-    {
-      "id": "ed10",
-      "nome": "Teste",
-      "carne": "Alcatra",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Bacon",
-        "Salame",
-        "Cebola roxa",
-        "Tomate",
-        "Cheddar",
-        "Pepino"
-      ],
-      "status": "Solicitado"
-    },
-    {
-      "id": "302e",
+      "id": "4",
       "nome": "Joana",
       "carne": "Alcatra",
       "pao": "3 Queijos",
@@ -138,7 +100,7 @@
         "Salame",
         "Cebola roxa"
       ],
-      "status": "Solicitado"
+      "status": "Finalizado"
     }
   ]
 }
